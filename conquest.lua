@@ -1,5 +1,5 @@
 _addon.name = 'conquest'
-_addon.author = 'Sylphiana-Quetzalcoatl'
+_addon.author = 'CylonPlays'
 _addon.version = '2.0'
 _addon.commands = {'conquest', 'cq'}
 
