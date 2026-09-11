@@ -9,7 +9,9 @@ DO NOT USE the FastCS addon while using this addon. The game engine runs uncappe
 This addon is set up to ONLY purchase the following items:
 
 Windurst - Mercenary Captain's Scythe (Rank 3)
+
 Sandoria - Royal Squire's Halberd (Rank 3)
+
 Bastok - Musketeer Gun (Rank 5)
 
 The Musketeer Gun is only available when Bastok is ranked 1st in Conquest
